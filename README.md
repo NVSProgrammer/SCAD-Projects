@@ -3,7 +3,8 @@ My projects, that I made with OpenSCAD. OpenSCAD - Download : https://openscad.o
 
 I love making projects with OpenSCAD and Visual Studio Code
 
-For the project: 
+For the project:
+
     module_spiral:
         Spiral object (in code name of the module: spiral(n,pxzy,xyz,xya);
         n - how meny blocks
